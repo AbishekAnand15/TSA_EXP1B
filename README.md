@@ -18,6 +18,7 @@ To perform regular differncing,seasonal adjustment and log transformatio on sale
 ```
 
 ## PROGRAM:
+```python
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
@@ -63,6 +64,7 @@ plt.title('Log Transformation')
 
 plt.tight_layout()
 plt.show()
+```
 ## OUTPUT:
 ![Screenshot 2024-08-23 221711](https://github.com/user-attachments/assets/ffd8e051-90ec-4f76-b28e-ff9e49d34638)
 ![Screenshot 2024-08-23 221729](https://github.com/user-attachments/assets/93341a28-89cc-40cc-b8a6-ef6e44c6066e)
