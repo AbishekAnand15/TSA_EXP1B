@@ -9,11 +9,13 @@
 To perform regular differncing,seasonal adjustment and log transformatio on sales of furniture store
 
 ## ALGORITHM:
+```
 1.Load and preprocess the data by filtering for furniture sales and converting the order date to datetime.
 2.Apply log transformation to the sales data to stabilize variance.
 3.Perform regular differencing on the log-transformed data to remove trends.
 4.Conduct seasonal differencing on the differenced series to eliminate seasonality.
 5.Check for stationarity using the ADF test and visualize the final stationary time series.
+```
 
 ## PROGRAM:
 import pandas as pd
