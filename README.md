@@ -10,7 +10,7 @@ To perform regular differncing,seasonal adjustment and log transformatio on sale
 
 ## ALGORITHM:
 ```
-1.Load and preprocess the data by filtering for furniture sales and converting the order date to datetime.
+1.Load and preprocess the data by filtering for furniture sales 
 2.Apply log transformation to the sales data to stabilize variance.
 3.Perform regular differencing on the log-transformed data to remove trends.
 4.Conduct seasonal differencing on the differenced series to eliminate seasonality.
