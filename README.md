@@ -71,4 +71,4 @@ plt.show()
 
 
 # RESULT:
-Thus we have created the python code for the conversion of non stationary to stationary data on sales of furniture store
+Thus,the python code for the conversion of non stationary to stationary data on sales of furniture store has been executed successfully.
